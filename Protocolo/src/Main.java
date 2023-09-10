@@ -23,7 +23,7 @@ public class Main {
         String encriptado = String.valueOf(desface);
 
         System.out.println("encriptado = " + encriptado);
-        //System.out.println("numeroD = " + numeroD); numeroD es lo que se desfazo
+        System.out.println("numeroD = " + numeroD); //numeroD es lo que se desfazo
 
     }
 }
